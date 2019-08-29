@@ -1,0 +1,25 @@
+canvas {
+  margin-top: 50px;
+  max-width: 1920px;
+  max-height: 1080px;
+}
+
+body,
+p,
+div,
+input {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+input {
+  margin: 10px;
+}
+
+#button {
+  background-color: red;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
